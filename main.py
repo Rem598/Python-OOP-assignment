@@ -8,7 +8,7 @@ class Person:
         print(f"Hello, my name is {self.name}. I am {self.age} years old and I am {self.gender}.")
 
 # Creating an instance of the Person class
-person = Person("Alice", 30, "Female")
+person = Person("Rem", 34, "Female")
 
 # Calling the introduce method to display the person's information
 person.introduce()
